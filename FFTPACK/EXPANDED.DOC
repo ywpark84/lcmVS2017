@@ -1,8 +1,0 @@
-
-
-	Expanded versions of the fftpack codes with the dependences
-removed are placed in the EXPANDED directory.  Presumably these will
-be easier to compile.
-
-Steve Skiena
-8/13/96
